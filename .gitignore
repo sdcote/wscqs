@@ -1,0 +1,40 @@
+# Directory Artifacts #
+#######################
+build/
+bin/
+.gradle/
+
+
+# Compiled Artifacts #
+######################
+*.class
+*.dll
+
+
+# Eclipse IDE Artifacts #
+#########################
+.classpath
+.project
+.settings/
+.metadata/
+
+
+# Testing Results #
+###################
+*.log
+*.h2.db
+*.lock.db
+
+
+# Package Files #
+#################
+*.jar
+*.7z
+*.gz
+*.tgz
+*.iso
+*.war
+*.ear
+!gradle/wrapper/*jar
+
+gradle.properties
