@@ -1,3 +1,5 @@
 Overview
 ====
-Web Services client quick start project using Spring-ws and Spring-boot and JAXB2
+Web Service Client Quick Start project template using Spring-WS and Spring-Boot
+
+
